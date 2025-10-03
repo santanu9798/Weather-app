@@ -1,4 +1,4 @@
-* {
+ * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -46,3 +46,4 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(135deg, #0984e3, #74b9ff);
 }
+

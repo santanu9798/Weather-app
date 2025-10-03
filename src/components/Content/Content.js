@@ -36,8 +36,8 @@ const About = () => (
       <div className="about-content">
         <div className="about-text">
           <p>
-            WeatherApp is a modern, responsive web application built with React that provides 
-            real-time weather information for cities around the globe. Our mission is to deliver 
+            WeatherApp is a modern, responsive web application built with React that provides
+            real-time weather information for cities around the globe. Our mission is to deliver
             accurate, up-to-date weather data in a beautiful and user-friendly interface.
           </p>
           <h3>Key Features:</h3>
@@ -72,7 +72,7 @@ const Help = () => (
         <div className="faq-item">
           <h3 className="faq-question">How do I search for weather?</h3>
           <p className="faq-answer">
-            Simply type the name of any city in the search box and press Enter or click the Search button. 
+            Simply type the name of any city in the search box and press Enter or click the Search button.
             The app will display current weather conditions for that location.
           </p>
         </div>
@@ -80,7 +80,7 @@ const Help = () => (
         <div className="faq-item">
           <h3 className="faq-question">Which cities are supported?</h3>
           <p className="faq-answer">
-            In demo mode, we support: New York, London, Tokyo, Paris, and Sydney. 
+            In demo mode, we support: New York, London, Tokyo, Paris, and Sydney.
             With a real API key, you can search for any city worldwide.
           </p>
         </div>
@@ -98,7 +98,7 @@ const Help = () => (
         <div className="faq-item">
           <h3 className="faq-question">What weather information is displayed?</h3>
           <p className="faq-answer">
-            The app shows current temperature, feels-like temperature, humidity, wind speed, 
+            The app shows current temperature, feels-like temperature, humidity, wind speed,
             atmospheric pressure, visibility, and min/max temperatures for the day.
           </p>
         </div>
@@ -106,7 +106,7 @@ const Help = () => (
         <div className="faq-item">
           <h3 className="faq-question">Is the app mobile-friendly?</h3>
           <p className="faq-answer">
-            Yes! The app is fully responsive and works great on desktop computers, 
+            Yes! The app is fully responsive and works great on desktop computers,
             tablets, and mobile phones.
           </p>
         </div>
