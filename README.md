@@ -1,6 +1,6 @@
-# 🌤️ Weather App
+# portfolio
 
-A beautiful and responsive weather application built with React that displays current weather conditions for cities around the world.
+A beautiful and responsive  application built with React that displays for my self.
 
 ## 🌟 Features
 
@@ -28,7 +28,7 @@ A beautiful and responsive weather application built with React that displays cu
 
 1. Navigate to the project directory:
    ```bash
-   cd Wether-app
+   cd portfolio
    ```
 
 2. Install dependencies:
@@ -41,25 +41,21 @@ A beautiful and responsive weather application built with React that displays cu
    npm start
    ```
 
-4. Open your browser and visit `http://localhost:3000`
+4. Open your browser and visit `http://localhost:5000`
 
 ## 🎮 Demo Mode
 
-The app currently runs in demo mode with mock data for the following cities:
-- New York, USA
-- London, UK
-- Tokyo, Japan
-- Paris, France
-- Sydney, Australia
+The app currently runs in demo mode with mock data for the following :
+- python developer
+- software developer
 
-Simply type any of these city names to see the weather information!
 
-## 🔑 Using Real Weather Data
+## 🔑 Using Real world  Data used project
 
-To enable real weather data from OpenWeatherMap:
+To enable real project data from Opensource:
 
 1. **Get an API Key**:
-   - Visit [OpenWeatherMap](https://openweathermap.org/api)
+   - Visit [Openportfolio](https://openportfolio.org/api)
    - Sign up for a free account
    - Generate your API key
 

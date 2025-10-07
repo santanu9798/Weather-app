@@ -6,9 +6,12 @@ const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 const menuItems = [
     { id: 'home', label: 'Home', icon: '🏠' },
-    { id: 'about', label: 'About', icon: 'ℹ️' },
-    { id: 'search', label: 'Search', icon: '🔍' },
-    { id: 'help', label: 'Help', icon: '❓' }
+    { id: 'about', label: 'About', icon: '👤' },
+    { id: 'skills', label: 'Skills', icon: '💻' },
+    { id: 'work', label: 'Work', icon: '💼' },
+    { id: 'qualification', label: 'Qualification', icon: '🎓' },
+    { id: 'projects', label: 'Projects', icon: '📁' },
+    { id: 'contact', label: 'Contact', icon: '📬' }
 ];
 
 const handleMenuClick = (sectionId) => {
@@ -25,7 +28,7 @@ const handleMenuClick = (sectionId) => {
       <div className="header-container">
         <div className="logo">
           <span className="logo-icon">🌤️</span>
-          <span className="logo-text" id='home'>WeatherApp</span>
+          <span className="logo-text" id='home'>Santanu</span>
         </div>
 
         {/* Desktop Navigation */}
