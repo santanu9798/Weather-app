@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import Header from './components/Header/Header';
-import WeatherAppDemo from './components/search/WeatherAppDemo';
 import { Home, About, Skills, Work, Qualification, Projects, Contact } from './components/Content/Content';
 
 function App() {
