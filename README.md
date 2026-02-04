@@ -1,4 +1,4 @@
-# portfolio
+# Weather-app
 
 A beautiful and responsive  application built with React that displays for my self.
 
@@ -28,7 +28,7 @@ A beautiful and responsive  application built with React that displays for my se
 
 1. Navigate to the project directory:
    ```bash
-   cd portfolio
+   cd Weather
    ```
 
 2. Install dependencies:
